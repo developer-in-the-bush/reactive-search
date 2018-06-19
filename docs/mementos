@@ -1,0 +1,2 @@
+target\node\npm.cmd run watch
+mvnw.cmd spring-boot:run
