@@ -1,6 +1,8 @@
 # A simple search engine
 
-
+### Prerequisites
+1. System-wise installed Java 8+
+ 
 ### How to launch this project
 
 1. Clone the github project
